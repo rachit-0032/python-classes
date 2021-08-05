@@ -1,5 +1,5 @@
 # Object-Oriented Programming in Python
-## Classes and Instances
+## Tutorial 1 - Classes and Instances
 
 ### Classes come in handy when we need to scale up the code and use the same thing multiple times, with repeated instances of the same thing.
 ### Each unique object of a class is known as its instance.
