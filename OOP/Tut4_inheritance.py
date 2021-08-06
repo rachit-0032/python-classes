@@ -1,7 +1,6 @@
 # Object-Oriented Programming in Python
 ## Tutorial 4 - Inheritance & Sub-Classes 
 
-### Version 1
 class Employee:
     domain_name = '@company.com'
     n_employees = 0
