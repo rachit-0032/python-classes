@@ -126,4 +126,4 @@ print("\nVersion 4:", employee1 + employee2)                        # The additi
 print("Version 4:", repr(employee1))                                # explicitly calling the repr() method
 
 
-### Had we not given the __add__ in the class, there is not way two instances can be added and thus, an error would have shown.
+### Had we not given the __add__ in the class, there is not way two instances can be added and thus, an error would have shown. 
